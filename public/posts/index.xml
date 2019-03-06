@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hedy&#39;s Site Draft</title>
+    <link>http://hedyfu.com/posts/</link>
+    <description>Recent content in Posts on Hedy&#39;s Site Draft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 20:19:16 -0800</lastBuildDate>
+    
+	<atom:link href="http://hedyfu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cactusssssssssssssssssssss</title>
+      <link>http://hedyfu.com/posts/cactus/cactus/</link>
+      <pubDate>Tue, 05 Mar 2019 20:19:16 -0800</pubDate>
+      
+      <guid>http://hedyfu.com/posts/cactus/cactus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
